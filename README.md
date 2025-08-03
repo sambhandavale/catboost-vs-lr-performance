@@ -1,6 +1,6 @@
-# 🏡 CatBoost vs Linear Regression – House Price Prediction
+# 🏡 CatBoost vs Linear Regression
 
-This project compares **Linear Regression** (with manual encoding) and **CatBoost** for predicting house prices using real-world data.
+This notebook compares **Linear Regression** (with manual encoding) and **CatBoost** for predicting house prices using real-world data.
 
 ---
 
